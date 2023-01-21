@@ -1,0 +1,9 @@
+[Plugin]
+Module=com.github.samlane-ma.raven.widget.helloworld.so
+Builtin=false
+Name=HelloWorld
+Description=Hello World
+Authors=Sam Lane
+Copyright=None
+Website=
+Icon=ubuntu-budgie-symbolic
